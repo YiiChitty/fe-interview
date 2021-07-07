@@ -1,4 +1,5 @@
-*.md linguist-language=JavaScript
+*.md linguist-language=HTML
 *.js linguist-language=JavaScript
-*.css linguist-language=JavaScript
+*.css linguist-language=CSS
 *.html linguist-language=JavaScript
+*.png linguist-language=JavaScript
